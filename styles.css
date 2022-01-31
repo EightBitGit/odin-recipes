@@ -1,8 +1,19 @@
-div {
-  color: white;
-  background-color: black;
+body {
+  background-color: powderblue;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
 }
-
+h1 {
+  color: blue;
+  text-align: center;
+  font-family: verdana;
+}
 p {
-  color: red;
+  border: 2px solid rgb(119, 138, 247);
+  padding: 30px;
+  margin: 50px;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
 }
